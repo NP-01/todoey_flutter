@@ -1,4 +1,4 @@
-# todoeyflutter
+# TODOEY
 
 A new Flutter application.
 
